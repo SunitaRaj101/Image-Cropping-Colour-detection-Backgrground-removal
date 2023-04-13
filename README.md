@@ -1,0 +1,1 @@
+# Image Cropping, Colour detection, Backgrground removal
